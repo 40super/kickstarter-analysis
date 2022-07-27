@@ -3,3 +3,6 @@ This project contains over 1000s of entries of kickstarter campaigns data that w
 
 ![OutcomeBasedOnLaunchDate](https://github.com/40super/kickstarter-analysis/blob/main/OutcomeBasedOnLaunchDate.png?raw=true)
 Here is one of the findings based on the best time to launch a kickstarter campaign.
+
+![ParentCategoryOutcome](https://github.com/40super/kickstarter-analysis/blob/main/ParentCategoryOutcome(US).png?raw=true)
+Here is another finding where we find out what category of the kickstarter campaign had the best conversion rate.
