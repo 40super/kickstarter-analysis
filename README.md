@@ -15,7 +15,7 @@ The first step to find out the outcomes based on launch date is to create a pivo
 
 Looking at the Pivot table, the information on how many campaign were successful, failed, and canceled on a monthly basis is showned. Additionally, this pivot table is filtered to only show the campaigns that are only of the theater category. To get a better understanding of the table, creating a visual graph can help see trends and any other findings.
 
-![Outcome Based on Launch Date](https://github.com/40super/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png?raw=true)
+![Outcome Based on Launch Date](https://github.com/40super/kickstarter-analysis/blob/main/resource/Theater_Outcomes_vs_Launch.png?raw=true)
 
 The graph shown above provide information on trends of campaigns results on a monthly basis.
 
