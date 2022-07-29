@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+Louise's own play called "Fever" has came close to the goal established in quick time. The purpose of this project is to help give Louise insight on how similar theater and play campaigns succeded, failed, or even cancelled based on their launch date and funding goals.
 
 ## Analysis and Challenges
 
