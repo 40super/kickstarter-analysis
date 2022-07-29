@@ -28,13 +28,21 @@ The next analysis that was performed was on the outcomes based on goals. The obj
 As a result, this graph shows the percentage of campaigns outcome based on the goal amount.
 
 ### Challenges and Difficulties Encountered
+During the challenge I did not have many difficulties due to having some knowledge of excel. The only difficulties I had, was troubleshooting any mistakes I made such as forgetting to apply filters to get the appropiate data table. Furthermore, I think a challenge that can be encountered is if the data was of larger scale, applying certain functions and adding custom parameters to each column can be tedious.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+* Based on the Outcomes based on Launch Date graph, the best time to launch a campaign is in May. 
+* Another conclusion is that October would be the worst time to launch a campaign due to the higher failure rate compare to the successful rate within the same time.
 
 - What can you conclude about the Outcomes based on Goals?
-
+* Based on the graph, goals between 20000 to 30000 had a higher percentage of failing than succeeding.
+* 
 - What are some limitations of this dataset?
 
+Some limitation that I noticed while using this dataset is the data distribution for certain categories. For example, looking at the outcome based on goals graph, goals with a monetary value greater than 20000 had less than 10 entries in majority of the goal range while goals under 20000 had greater amount of entries. This can cause entries that have higher goals to have higher weightage which can skew the data.
+
 - What are some other possible tables and/or graphs that we could create?
+
+I think a good graph that can be useful to get a better understanding of the data is the box and whisker plot. Using this graph can give an understanding of the amount of outlier and also see if the data is distributed normally.
