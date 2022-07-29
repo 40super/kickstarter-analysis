@@ -23,7 +23,9 @@ The graph shown above provide information on trends of campaigns results on a mo
 
 The next analysis that was performed was on the outcomes based on goals. The objective of this analysis was to count the number of successful, failed, and canceled campaigns based on the goal amount of the campaign. By using the excel function `COUNTIF()`, it performs conditional checks to count only the campaigns that fits the parameter given. In this case, the goal range and the sub-category "plays".
 
-![Outcome Based on Goals]()
+![Outcome Based on Goals](https://github.com/40super/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png?raw=true)
+
+As a result, this graph shows the percentage of campaigns outcome based on the goal amount.
 
 ### Challenges and Difficulties Encountered
 
