@@ -21,6 +21,10 @@ The graph shown above provide information on trends of campaigns results on a mo
 
 ### Analysis of Outcomes Based on Goals
 
+The next analysis that was performed was on the outcomes based on goals. The objective of this analysis was to count the number of successful, failed, and canceled campaigns based on the goal amount of the campaign. By using the excel function `COUNTIF()`, it performs conditional checks to count only the campaigns that fits the parameter given. In this case, the goal range and the sub-category "plays".
+
+![Outcome Based on Goals]()
+
 ### Challenges and Difficulties Encountered
 
 ## Results
