@@ -8,7 +8,7 @@ Louise's own play called "Fever" has came close to the goal established in quick
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Outcome Based on Launch Date](https://github.com/40super/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png?raw=true)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
