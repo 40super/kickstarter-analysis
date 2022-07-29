@@ -8,6 +8,11 @@ Louise's own play called "Fever" has came close to the goal established in quick
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+#### Pivot Table
+The first step to find out the outcomes based on launch date is to create a pivot table. A pivot table is useful in this instance because it can provide a summary of our data and give us insight based on the data we use.
+
+![Outcome Based on Launch Date Pivot Table]
+
 ![Outcome Based on Launch Date](https://github.com/40super/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png?raw=true)
 ### Analysis of Outcomes Based on Goals
 
